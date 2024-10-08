@@ -113,8 +113,8 @@ Escape={
 
 [input_devices]
 
-virtual_controller/show_controller=true
-virtual_controller/enable_right_thumbstick=false
+virtual_controller/ios/enable_controller=true
+virtual_controller/ios/enable_right_thumbstick=false
 
 [rendering]
 
